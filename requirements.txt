@@ -1,4 +1,5 @@
-numpy 
+numpy
+setuptools<60
 pandas 
 matplotlib 
 seaborn 
@@ -10,3 +11,5 @@ torchvision
 torchaudio
 plotly
 ipywidgets
+keras
+scipy==1.6.1
